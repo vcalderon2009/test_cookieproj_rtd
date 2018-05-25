@@ -18,8 +18,7 @@ dependencies:
   - pip:
     - GitPython
     - progressbar2
-    - sphinx_rtd_theme
     - cosmo-utils
     - configparser
     - sphinx-astropy
-    - numpydoc
+    - sphinx_rtd_theme

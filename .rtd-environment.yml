@@ -13,6 +13,6 @@ dependencies:
     - pip
     - pip:
         - GitPython
-        - sphinx_rtd_theme
         - configparser
-        - sphinx-automodapi
+        - sphinx-astropy
+        - sphinx_rtd_theme
