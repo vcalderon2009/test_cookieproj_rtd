@@ -1,6 +1,7 @@
 |RTD| |License| |Issues|
 
 .. _INSTALL_MAIN:
+
 **************************************
 Downloading and Installing Repository
 **************************************
@@ -13,6 +14,7 @@ Short Description of the very complicated project
     :local:
 
 .. _donwload_repo_sec:
+
 ======================
 Downloading repository
 ======================
