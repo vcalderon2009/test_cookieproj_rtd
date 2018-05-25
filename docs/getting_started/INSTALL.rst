@@ -1,9 +1,9 @@
 |RTD| |License| |Issues|
 
 .. _INSTALL_MAIN:
-************************************************************************
-test_cookieproj_rtd
-************************************************************************
+**************************************
+Downloading and Installing Repository
+**************************************
 
 Short Description of the very complicated project
 

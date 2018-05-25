@@ -1,9 +1,9 @@
 |RTD| |License| |Issues|
 
 .. _ENVIRONMENT_MAIN:
-************************************************************************
-test_cookieproj_rtd
-************************************************************************
+*********************************
+Using the Project's environment
+*********************************
 
 Short Description of the very complicated project
 

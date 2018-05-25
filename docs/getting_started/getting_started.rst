@@ -1,9 +1,9 @@
 |RTD| |License| |Issues|
 
 .. _GETTING_STARTED:
-************************************************************************
-test_cookieproj_rtd
-************************************************************************
+*******************
+Getting Started
+*******************
 
 Short Description of the very complicated project
 
@@ -12,6 +12,9 @@ Short Description of the very complicated project
 
 .. contents:: **Table of Contents**
     :local:
+
+.. toctree::
+    :maxdepth: 2
 
     INSTALL
     ENVIRONMENT
