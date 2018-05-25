@@ -37,7 +37,10 @@ being able to run any of the project's commands.
 
 See :ref:`ENVIRONMENT_MAIN` for more information.
 
+.. ----------------------------------------------------------------------------
 
+Project based on the `modified <https://github.com/vcalderon2009/cookiecutter-data-science-vc>`_  version of
+`cookiecutter data science project template <https://drivendata.github.io/cookiecutter-data-science/>`_ 
 
 
 .. |Issues| image:: https://img.shields.io/github/issues/vcalderon2009/test_cookieproj_rtd.svg

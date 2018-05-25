@@ -56,5 +56,7 @@ The organization of the project is the following:
         │
         └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
 
+.. ----------------------------------------------------------------------------
+
 Project based on the `modified <https://github.com/vcalderon2009/cookiecutter-data-science-vc>`_  version of
 `cookiecutter data science project template <https://drivendata.github.io/cookiecutter-data-science/>`_ 
