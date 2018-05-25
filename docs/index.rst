@@ -23,6 +23,7 @@ Contents
 
   getting_started/getting_started
   project_organization
+  commands
 
 
 .. |Issues| image:: https://img.shields.io/github/issues/vcalderon2009/test_cookieproj_rtd.svg
